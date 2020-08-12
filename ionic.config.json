@@ -1,7 +1,8 @@
 {
   "name": "qr-card",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
